@@ -3,7 +3,8 @@ Entrevista de Emprego em Python</h4>
 
 ----------------------
 * Este repositório foi criado para fins de estudos, o estudo atual é sobre uma **Simulação de Uma Entrevista de emprego em Python!**
-_
+
+_____
 
 ---------------------
 * Branch: `main` Para os Arquivos e alterações feitas por @bryanwesley
