@@ -11,4 +11,4 @@ _
 * Branch: `rafabm` Para os Arquivos e alterações feitas por @rafaabm-dev
 ---------------------
 
-<p>Caso queira ajudar ou contribuir no repositório, contacte <a href="https://discord.com/users/1510755494124585154">@bryangamer7. no Discord!</a>
+<p>Caso queira ajudar ou contribuir no repositório, contacte <a href="https://discord.com/users/1510755494124585154">@bryangamer7.</a> no Discord!</p>
